@@ -39,6 +39,13 @@ Mark task as in progress:
 java Main mark-in-progress 1
 
 ## Technologies
+## Project URL
+
+https://roadmap.sh/projects/task-tracker
+
+## Repository
+
+https://github.com/Hebaabas2003/task-tracker-cli
 
 - Java
 - File System
